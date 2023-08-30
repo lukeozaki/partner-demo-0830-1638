@@ -23,7 +23,7 @@ export const config: TemplateConfig = {
   stream: {
     $id: "state-stream",
     filter: {
-      entityTypes: ["ce_state"],
+      entityTypes: ["ce_region"],
     },
     fields: [
       "id",
@@ -42,7 +42,7 @@ export const config: TemplateConfig = {
       "dm_childEntityIds",
     ],
     localization: {
-      locales: ["en"],
+      locales: ["ja"],
       primary: false,
     },
   },

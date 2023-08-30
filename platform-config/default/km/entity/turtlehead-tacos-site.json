@@ -1,7 +1,7 @@
 {
   "$id": "turtlehead-tacos-site",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
-  "primaryLocale": "en",
+  "primaryLocale": "ja",
   "content": {
     "c_footer": [
       {

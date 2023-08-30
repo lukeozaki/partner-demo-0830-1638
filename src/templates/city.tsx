@@ -53,7 +53,7 @@ export const config: TemplateConfig = {
       "dm_directoryChildren.slug",
     ],
     localization: {
-      locales: ["en"],
+      locales: ["ja"],
       primary: false,
     },
   },
